@@ -5,6 +5,7 @@ $(function(){
         dots: true,
         autoplay: true,
         fade: true,
+        fade: false,
         responsive: [
             {
                 breakpoint: 1200,
